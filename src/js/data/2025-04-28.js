@@ -25,6 +25,7 @@ dataSet[dataSetVersion].options = [
       { name: "L'Âge des Méditatifs", tooltip: "Campagne", key: "AM" },
       { name: "Remembrances", tooltip: "Campagne", key: "Rem" },
       { name: "Réunification et Ataraxie", tooltip: "Campagne", key: "REA" },
+      { name: "La Lumière d'une Lune Eteinte", tooltip: "Campagne", key: "3LE" },
     ]
   },
   {
@@ -462,7 +463,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Enea (???)",
+    name: "Enea",
     img: "iO5SP1y.png",
     opts: {
       series: [ "VBS" ],
@@ -511,5 +512,40 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       jdrs: [ "REA" ]
     }
-  }
+  },
+  {
+    name: "Zoku",
+    img: "nkYmEHA.png",
+    opts: {
+      jdrs: [ "REA" ]
+    }
+  },
+  {
+    name: "Yana Ki",
+    img: "WuzSHIf.png",
+    opts: {
+      jdrs: [ "REA" ]
+    }
+  },
+  {
+    name: "Jigen \"Ryu\" Fen",
+    img: "aGLk4Ta.png",
+    opts: {
+      jdrs: [ "REA" ]
+    }
+  },
+  {
+    name: "Owaru Mono",
+    img: "QYI1Drx.png",
+    opts: {
+      jdrs: [ "REA" ]
+    }
+  },
+  {
+    name: "Tomie Koyanagi",
+    img: "7REIgHO.png",
+    opts: {
+      jdrs: [ "REA" ]
+    }
+  },
 ];
